@@ -6,7 +6,7 @@
 ; load "$NCARG_ROOT/lib/ncarg/nclscripts/csm/gsn_code.ncl"   
 ; load "$NCARG_ROOT/lib/ncarg/nclscripts/csm/gsn_csm.ncl"   
 load "$NCARG_ROOT/lib/ncarg/nclscripts/wrf/WRF_contributed.ncl"
-load "$NCL_SELFLIB/../shp/cnmap/cnmap.ncl"
+load "$NCL_SELFLIB/mapss/shp/cnmap/cnmap.ncl"
 begin
 ;************************************************
 ; open file and read in data
